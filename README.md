@@ -1,13 +1,13 @@
-<!-- ===================================================== -->
-<!--                 AI MISSION CONTROL                    -->
-<!-- ===================================================== -->
+<!-- ====================================================== -->
+<!--                     HERO SECTION                       -->
+<!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0B132B,50:1C2541,100:3A506B&text=SIYA%20ROZANI&fontColor=E0FBFC&fontSize=58&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20Research&descAlignY=58&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0B132B,50:1C2541,100:3A506B&text=SIYA%20ROZANI&fontColor=E0FBFC&fontSize=58&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Machine%20Learning%20•%20Data%20Science%20•%20Research&descAlignY=58&descSize=22"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5BC0EB&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+for+Real-World+Impact;Research+%C3%97+Engineering+%C3%97+AI;Exploring+ML%2C+Data+Science+%26+Intelligent+Systems;Turning+Complex+Problems+Into+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=5BC0EB&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+for+Real-World+Impact;Research+×+Engineering+×+AI;Exploring+Machine+Learning+and+Intelligent+Systems;Turning+Complex+Problems+Into+Scalable+Solutions" />
 </p>
 
 ---
@@ -32,14 +32,15 @@
 
 ---
 
-<h1 align="center">⚡ AI SYSTEM STATUS ⚡</h1>
+<h2 align="center">⚡ AI SYSTEM STATUS ⚡</h2>
 
 ```bash
 SYSTEM STATUS :: SIYA_OS v2.1
 
 Research Mode           ██████████
-ML Engineering          █████████░
 AI Systems              ██████████
+ML Engineering          █████████░
+Impact Projects         ██████████
 Hackathon Energy        ██████████
 Sleep Schedule          ██░░░░░░░░
 Curiosity Engine        ∞
@@ -47,57 +48,61 @@ Curiosity Engine        ∞
 
 ---
 
-# ━━━━━━━━━━━━ ◦ ABOUT ME ◦ ━━━━━━━━━━━━
+<h2 align="center">◦ ABOUT ME ◦</h2>
 
 ```yaml
 name: Siya Rozani
-field: AI & Data Science
-focus:
+
+field:
   - Artificial Intelligence
   - Machine Learning
   - Data Science
-  - Research-Oriented Engineering
 
 mission:
   Combining research and engineering
   to solve meaningful real-world problems.
 
-currently_interested_in:
+interests:
   - Intelligent Systems
   - AI Research
   - Healthcare AI
-  - Environmental Intelligence
   - Predictive Analytics
+  - Environmental Intelligence
 ```
 
 ---
 
-# ━━━━━━━━━━━━ ◦ ENGINEERING DOMAINS ◦ ━━━━━━━━━━━━
+<h2 align="center">◦ ENGINEERING DOMAINS ◦</h2>
 
-<div align="center">
+<p align="center">
 
 | Domain | Focus |
 |---|---|
 | 🧠 AI & ML | Intelligent Systems & Applied AI |
-| 📊 Data Science | Analytics, Prediction & Insights |
-| 🔬 Research | Exploring Scalable AI Solutions |
-| 🌍 Impact Tech | Real-World Problem Solving |
-| 🛡️ AI Security | Hybrid Intelligent Detection |
-| 🏥 Healthcare AI | Offline-First Decision Systems |
+| 📊 Data Science | Prediction, Analytics & Insights |
+| 🔬 Research | Research-Oriented Engineering |
+| 🌍 Impact Tech | AI for Real-World Challenges |
+| 🛡️ AI Security | Intelligent Detection Systems |
+| 🏥 Healthcare AI | Offline-First AI Workflows |
 
-</div>
+</p>
 
 ---
 
-# ━━━━━━━━━━━━ ◦ CURRENT MISSION ◦ ━━━━━━━━━━━━
-
-```bash
-> loading_current_projects...
-```
+<h2 align="center">◦ CURRENT MISSION ◦</h2>
 
 ### 🛡️ CodeShieldAI 〔 Flagship Project 〕
+
 ```txt
-Code → Embeddings → Hybrid Detection → Risk Scoring → AI Suggestions
+Code
+ ↓
+Embedding Models
+ ↓
+Hybrid Detection Engine
+ ↓
+Risk Scoring
+ ↓
+AI Remediation Suggestions
 ```
 
 AI-powered hybrid vulnerability detection system combining transformer models and intelligent rule-based analysis for secure code scanning.
@@ -105,44 +110,58 @@ AI-powered hybrid vulnerability detection system combining transformer models an
 ---
 
 ### 🏥 Aarogya Sampark — Rural Healthcare Intelligence Mesh
+
 ```txt
-Health Data → Offline AI → CHW Decision Support → Rural Accessibility
+Healthcare Data
+        ↓
+Offline AI Processing
+        ↓
+CHW Decision Support
+        ↓
+Rural Accessibility
 ```
 
-AI-powered offline-first healthcare assistance system designed to support Community Health Workers in low-connectivity regions.
+AI-powered offline-first healthcare assistance system designed for Community Health Workers in low-connectivity environments.
 
 ---
 
 ### 🌫️ AQI Prediction System
+
 ```txt
-Environmental Data → Forecasting → Pattern Analysis → AQI Intelligence
+Environmental Data
+        ↓
+Forecasting Models
+        ↓
+Pattern Detection
+        ↓
+AQI Intelligence
 ```
 
-Machine learning-based AQI prediction workflows using environmental and time-series datasets.
+Machine learning workflows focused on environmental analysis and AQI prediction using predictive modeling techniques.
 
 ---
 
-# ━━━━━━━━━━━━ ◦ RESEARCH INTERESTS ◦ ━━━━━━━━━━━━
+<h2 align="center">◦ RESEARCH INTERESTS ◦</h2>
 
-<div align="center">
+<p align="center">
 
 | 🧠 AI Systems | 📈 Machine Learning |
 |---|---|
 | Intelligent Architectures | Applied ML |
 | AI for Real-World Problems | Predictive Modeling |
-| Agentic AI Exploration | Intelligent Analytics |
+| AI System Design | Intelligent Analytics |
 
 | 🌍 Impact-Driven AI | 🔬 Research |
 |---|---|
 | Healthcare Intelligence | Experimental Systems |
 | Environmental Intelligence | Research-Oriented Engineering |
-| Scalable Intelligent Workflows | AI Exploration |
+| Scalable AI Workflows | AI Exploration |
 
-</div>
+</p>
 
 ---
 
-# ━━━━━━━━━━━━ ◦ CURRENTLY LEARNING ◦ ━━━━━━━━━━━━
+<h2 align="center">◦ CURRENTLY LEARNING ◦</h2>
 
 ```bash
 > learning_now.exe
@@ -157,19 +176,19 @@ Machine learning-based AQI prediction workflows using environmental and time-ser
 
 ---
 
-# ━━━━━━━━━━━━ ◦ TECH ORBIT ◦ ━━━━━━━━━━━━
+<h2 align="center">◦ TECH ORBIT ◦</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,mongodb,mysql,js,java,c,docker,git,vscode,figma&perline=7" />
 </p>
 
 <p align="center">
-  <i>Python sits at the core — surrounded by multi-domain engineering tools and AI ecosystems.</i>
+  <i>Python at the core • Multi-domain engineering around it</i>
 </p>
 
 ---
 
-# ━━━━━━━━━━━━ ◦ LEADERSHIP & EXPERIENCE ◦ ━━━━━━━━━━━━
+<h2 align="center">◦ LEADERSHIP & EXPERIENCE ◦</h2>
 
 ```txt
 ⚡ Technical Member — DJS Helios Solar Vehicle Committee
@@ -181,7 +200,7 @@ Machine learning-based AQI prediction workflows using environmental and time-ser
 
 ---
 
-# ━━━━━━━━━━━━ ◦ GITHUB ANALYTICS ◦ ━━━━━━━━━━━━
+<h2 align="center">◦ GITHUB ANALYTICS ◦</h2>
 
 <p align="center">
 
@@ -192,14 +211,12 @@ Machine learning-based AQI prediction workflows using environmental and time-ser
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sia3136&theme=tokyonight&hide_border=true&background=0D1117"/>
-
 </p>
 
 ---
 
-# ━━━━━━━━━━━━ ◦ CONTRIBUTION MAP ◦ ━━━━━━━━━━━━
+<h2 align="center">◦ CONTRIBUTION MAP ◦</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sia3136&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
@@ -207,7 +224,7 @@ Machine learning-based AQI prediction workflows using environmental and time-ser
 
 ---
 
-# ━━━━━━━━━━━━ ◦ OPEN TO COLLABORATE ◦ ━━━━━━━━━━━━
+<h2 align="center">◦ OPEN TO COLLABORATE ◦</h2>
 
 ```txt
 Interested in collaborating on:
@@ -215,12 +232,12 @@ Interested in collaborating on:
 • Research-Oriented Systems
 • Hackathons
 • Intelligent Applications
-• Impact-Driven Tech Solutions
+• Impact-Driven Technology
 ```
 
 ---
 
-# ━━━━━━━━━━━━ ◦ HIGHLIGHTS ◦ ━━━━━━━━━━━━
+<h2 align="center">◦ HIGHLIGHTS ◦</h2>
 
 ```txt
 🥈 2nd Runner-Up — Slide the Change Challenge
@@ -232,7 +249,7 @@ Interested in collaborating on:
 
 ---
 
-# ━━━━━━━━━━━━ ◦ PHILOSOPHY ◦ ━━━━━━━━━━━━
+<h2 align="center">◦ PHILOSOPHY ◦</h2>
 
 <p align="center">
 
@@ -243,21 +260,44 @@ Interested in collaborating on:
 ---
 
 <details>
-<summary>⚠️ curious_human.exe</summary>
+<summary>🔐 Access AI Core</summary>
 
-```python
-while(alive):
-    learn()
-    build()
-    experiment()
-    improve()
+```yaml
+core_values:
+  - curiosity
+  - experimentation
+  - research
+  - impact
+
+current_state:
+  mode: building
+  status: learning
+  energy_source: coffee
+
+objective:
+  create intelligent systems
+  with real-world impact
 ```
 
 </details>
 
 ---
 
-# ━━━━━━━━━━━━ ◦ THANKS FOR VISITING ◦ ━━━━━━━━━━━━
+<details>
+<summary>⚠️ SYSTEM LOGS</summary>
+
+```txt
+[08:42 PM] Curiosity levels rising...
+[10:17 PM] Started another side project
+[12:51 AM] "One last experiment"
+[02:36 AM] Still debugging
+```
+
+</details>
+
+---
+
+<h2 align="center">◦ THANKS FOR VISITING ◦</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siya-rozani-9889592a1">
