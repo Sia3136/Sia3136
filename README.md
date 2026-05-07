@@ -65,9 +65,9 @@ mission:
 interests:
   - Intelligent Systems
   - AI Research
-  - Healthcare AI
-  - Predictive Analytics
   - Environmental Intelligence
+  - CyberSecurity
+  - Textile Recycling
 ```
 
 ---
@@ -82,7 +82,7 @@ interests:
 | 📊 Data Science | Prediction, Analytics & Insights |
 | 🔬 Research | Research-Oriented Engineering |
 | 🌍 Impact Tech | AI for Real-World Challenges |
-| 🛡️ AI Security | Intelligent Detection Systems |
+| 🛡️ Cybersecurity | Intelligent Detection Systems |
 | 🏥 Healthcare AI | Offline-First AI Workflows |
 
 </p>
@@ -145,17 +145,23 @@ Machine learning workflows focused on environmental analysis and AQI prediction 
 
 <p align="center">
 
-| 🧠 AI Systems | 📈 Machine Learning |
+| 🧠 AI Systems | 📈 Applied ML |
 |---|---|
-| Intelligent Architectures | Applied ML |
-| AI for Real-World Problems | Predictive Modeling |
+| Intelligent Architectures | Predictive Modeling |
 | AI System Design | Intelligent Analytics |
+| Agentic AI Exploration | Data-Driven Systems |
 
-| 🌍 Impact-Driven AI | 🔬 Research |
+| 🌍 Impact Tech | 🧬 Bio & Sustainability |
 |---|---|
-| Healthcare Intelligence | Experimental Systems |
-| Environmental Intelligence | Research-Oriented Engineering |
-| Scalable AI Workflows | AI Exploration |
+| Healthcare Intelligence | Bio-Related AI Exploration |
+| Environmental Intelligence | Textile Recycling Innovation |
+| Scalable AI Workflows | Sustainable Intelligent Systems |
+
+| 🛡️ Cybersecurity | 🔬 Research |
+|---|---|
+| AI-Powered Detection | Experimental Systems |
+| Intelligent Security Pipelines | Research-Oriented Engineering |
+| Hybrid Security Systems | Applied AI Exploration |
 
 </p>
 
@@ -179,7 +185,7 @@ Machine learning workflows focused on environmental analysis and AQI prediction 
 <h2 align="center">◦ TECH ORBIT ◦</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,mongodb,mysql,js,java,c,docker,git,vscode,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,react,nodejs,mongodb,mysql,postgresql,js,ts,java,c,cpp,git,github,docker,linux,vscode,figma,powerbi&perline=8" />
 </p>
 
 <p align="center">
@@ -192,7 +198,8 @@ Machine learning workflows focused on environmental analysis and AQI prediction 
 
 ```txt
 ⚡ Technical Member — DJS Helios Solar Vehicle Committee
-🚀 25+ National-Level Hackathons & Competitions
+🚀 Participated in 25+ case study competitions, hackathons,
+   technical project presentations & idea pitching competitions
 📈 Internship Experience in Growth & Strategy
 🧠 Experience Across AI, Analytics & Intelligent Systems
 🔬 Strong Interest in Research-Driven Engineering
@@ -203,15 +210,7 @@ Machine learning workflows focused on environmental analysis and AQI prediction 
 <h2 align="center">◦ GITHUB ANALYTICS ◦</h2>
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sia3136&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sia3136&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sia3136&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sia3136&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -219,7 +218,7 @@ Machine learning workflows focused on environmental analysis and AQI prediction 
 <h2 align="center">◦ CONTRIBUTION MAP ◦</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sia3136&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sia3136&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -241,6 +240,7 @@ Interested in collaborating on:
 
 ```txt
 🥈 2nd Runner-Up — Slide the Change Challenge
+🥈 2nd Runner-Up — NIDM Spandan Case Study Competition
 🧠 AI • ML • Data Science Enthusiast
 🌍 Passionate About Impact-Driven Intelligent Systems
 🔬 Research + Engineering Focused
@@ -272,7 +272,7 @@ core_values:
 current_state:
   mode: building
   status: learning
-  energy_source: coffee
+  energy_source: chai
 
 objective:
   create intelligent systems
