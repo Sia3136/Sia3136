@@ -32,6 +32,16 @@
 
 ---
 
+<!-- ====================================================== -->
+<!--                  FEMALE CODER ANIMATION                -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Girl Coding Animation"/>
+</p>
+
+---
+
 <h2 align="center">⚡ AI SYSTEM STATUS ⚡</h2>
 
 ```bash
@@ -93,51 +103,214 @@ interests:
 
 ### 🛡️ CodeShieldAI 〔 Flagship Project 〕
 
+> AI-Powered Multi-Layer Vulnerability Detection — Transformer-based semantic analysis + deterministic multi-language heuristics
+
 ```txt
-Code
- ↓
-Embedding Models
- ↓
-Hybrid Detection Engine
- ↓
-Risk Scoring
- ↓
-AI Remediation Suggestions
+Code Input (File / GitHub Repo URL)
+         ↓
+Fine-Tuned GraphCodeBERT / CodeBERT
+  (Transformer Semantic Analysis)
+         ↓
+Multi-Language Heuristic Engine
+  (Deterministic Rule Layer — 8+ Languages)
+         ↓
+Hybrid Scoring Engine
+  (Boost / Rollback Logic on Critical Hits)
+         ↓
+Vulnerability Report
+  • Exact Vulnerable Line Ranges
+  • Severity & Vulnerability Type
+  • Actionable Remediation Intelligence
+  • PDF Report Export
 ```
 
-AI-powered hybrid vulnerability detection system combining transformer models and intelligent rule-based analysis for secure code scanning.
+**What it does:**
+- Scans uploaded files or public GitHub repositories (OAuth or URL)
+- Compares GraphCodeBERT vs CodeBERT model results with confidence scores
+- Delivers professional PDF scan reports with full explainability
+- Supports Developers, DevOps teams & Companies in AI-assisted secure workflows
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GraphCodeBERT-Transformer-5BC0EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/8%2B%20Languages-Supported-3A506B?style=flat-square"/>
+</p>
 
 ---
 
 ### 🏥 Aarogya Sampark — Rural Healthcare Intelligence Mesh
 
+> AI-powered, offline-first healthcare decision support for Community Health Workers (CHWs)
+
 ```txt
-Healthcare Data
-        ↓
-Offline AI Processing
-        ↓
+CHW Data Collection (Vitals + Symptoms + History)
+         ↓
+Hybrid AI Layer
+  ├── ONNX Local Inference (Always runs — offline capable)
+  └── Featherless LLM Enhancement (Online, preferred if confidence > 75%)
+         ↓
+Pillar Agents
+  ├── Pillar 1: Maternal Hemorrhage Agent (PPH Risk Scoring)
+  ├── Pillar 2: TB Adherence Agent (Relapse Risk Detection)
+  └── Pillar 3: Pesticide Exposure Agent (First-Response Guidance)
+         ↓
 CHW Decision Support
-        ↓
-Rural Accessibility
+  (Plain-Language Output + Urgency Escalation)
+         ↓
+Rural Accessibility — Works Even Without Internet
 ```
 
-AI-powered offline-first healthcare assistance system designed for Community Health Workers in low-connectivity environments.
+**Problem it solves:** Rural ASHA / CHW workers face postpartum hemorrhage, TB non-adherence, and pesticide poisoning with no connectivity and no decision tools.
+
+**Key highlights:**
+- 🏥 **Maternal Hemorrhage Agent** — Real-time PPH risk scoring using WHO guidelines + ONNX model
+- 🫁 **TB Adherence Agent** — Detects relapse risk based on adherence %, days missed, and symptoms
+- 🧪 **Pesticide Exposure Agent** — Guides first responders in identifying and acting on chemical exposure
+- 📱 **Progressive Web App (PWA)** — Works offline via IndexedDB + ONNX runtime
+- 🗣️ **Voice & Image Input** — Web Speech API + image upload wired for CHW usability
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_18-TypeScript-3178C6?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/ONNX-Offline_Inference-005CED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PWA-Offline_First-5BC0EB?style=flat-square"/>
+</p>
 
 ---
 
-### 🌫️ AQI Prediction System
+### 🌫️ AQI Forecasting System — Indian Cities Air Quality Intelligence
+
+> Comprehensive time-series forecasting system predicting daily AQI values across 5 major Indian cities up to **90 days in advance**
 
 ```txt
-Environmental Data
-        ↓
-Forecasting Models
-        ↓
-Pattern Detection
-        ↓
-AQI Intelligence
+Historical Pollution Data (18,265 daily observations · 2015–2024)
+  Cities: Delhi · Mumbai · Chennai · Kolkata · Bangalore
+         ↓
+Advanced Feature Engineering
+  ├── Temporal Features (Month, Year, Day of Week, Cyclical Encoding)
+  ├── Lag Features (AQI lag-1, 7-day rolling mean)
+  └── Pollutant Ratios (PM2.5 / PM10)
+         ↓
+Modeling Pipeline
+  Baseline → Random Forest → XGBoost → LightGBM → Ensemble
+         ↓
+Hyperparameter Tuning (Optuna — 50 trials · Bayesian TPE)
+         ↓
+Multi-Horizon Forecasting
+  30-day · 60-day · 90-day predictions with Confidence Intervals
+         ↓
+Health Recommendations + Pollutant Identification
 ```
 
-Machine learning workflows focused on environmental analysis and AQI prediction using predictive modeling techniques.
+**Pollutants tracked:** PM2.5, PM10, NO, NO2, NOx, NH3, CO, SO2, O3, Benzene, Toluene, Xylene
+
+**Impact:** 🏥 Healthcare early warnings · 🏭 Policy making · 📱 Public awareness · 🔬 Pollution research
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python"/>
+  <img src="https://img.shields.io/badge/XGBoost-Latest-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LightGBM-Ensemble-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Optuna-Bayesian_Tuning-5BC0EB?style=flat-square"/>
+</p>
+
+---
+
+<h2 align="center">◦ FEATURED PROJECTS ◦</h2>
+
+<!-- ====================================================== -->
+<!--                      BIDCRAFT                          -->
+<!-- ====================================================== -->
+
+### 🎨 BidCraft — Creator Marketplace
+
+> A production-grade full-stack marketplace where creators sell and collectors discover through multiple transaction modes: **Fixed Price · Live Auctions · Private Offers**
+
+```txt
+Creator Lists Item
+  ├── Buy Now (Fixed Price)
+  ├── Auction (Live Bidding via Socket.io WebSockets)
+  └── Make Offer (Private Negotiation)
+         ↓
+Real-Time Auction Engine
+  ├── Countdown Synchronization (all clients share auction clock)
+  ├── Bid History + Increment Validation per event
+  └── Automated Settlement via node-cron + webhook
+         ↓
+Checkout & Escrow
+  (Razorpay Payment · Funds held until order confirmation)
+         ↓
+Seller Dashboard
+  (Orders · Active Offers · Analytics · Shipping Management)
+```
+
+**Highlights:**
+- 🏪 Full-text search, category browsing, image carousels, wishlist
+- ⚡ Live bidding with real-time bid propagation via Socket.io
+- 🔐 JWT auth with refresh token rotation, email OTP, role-based access (buyer/seller/admin)
+- 🗄️ PostgreSQL + Redis (cache & rate limiting) + Cloudinary CDN
+- 🌐 Deployed: Frontend on **Vercel** · Backend on **Render** · DB on **Neon**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-Live_Bidding-010101?style=flat-square&logo=socket.io"/>
+  <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis"/>
+</p>
+
+---
+
+<!-- ====================================================== -->
+<!--                       VIEWX                            -->
+<!-- ====================================================== -->
+
+### 👁️ ViewX — Real-Time AI-Powered Surveillance & Examination Proctoring
+
+> Transforms traditional passive CCTV into an **intelligent, proactive safety network** using edge-based computer vision for real-time anomaly and cheating detection
+
+```txt
+Live Camera Feeds (MJPEG / RTSP — Multi-Camera)
+         ↓
+ML Worker — Edge Inference Engine
+  ├── YOLOv8s Pose Estimation
+  ├── ByteTrack Student Identity Persistence
+  └── CLAHE Preprocessing (Low-light / Glare robustness)
+         ↓
+Dual-Triangle Sight Tracker
+  ├── Eye-Nose Triangle (Left Eye · Right Eye · Nose)
+  └── Ear-Nose Triangle (Nose · Left Ear · Right Ear)
+  → Gaze Direction Score (Scale-Invariant, No Eye-Trackers Needed)
+         ↓
+Heuristics & Anomaly Engine
+  ├── Sideward Glancing Detection
+  ├── Phone / Chit / Smartwatch Object Detection
+  ├── Invigilator Proximity Suppression (False Positive Filter)
+  └── Non-verbal Communication Patterns
+         ↓
+Redis Pub/Sub → FastAPI WebSocket Server
+         ↓
+Next.js Dashboard — Real-Time Alerts + Audit Trail + AI Explainability (Groq API)
+```
+
+**Edge cases handled:**
+- 🧑‍🏫 Invigilator in room — spatial sector suppression prevents false alerts
+- 📱 Phone, chit & smartwatch detection on desks and in hands
+- 🎥 Multi-camera 360° concurrent stream processing
+- 🌑 CLAHE preprocessing for dim/glare camera environments
+- 📡 Camera malfunction / stream loss detection
+- ⚡ ~30ms end-to-end latency — **30+ FPS real-time monitoring**
+
+🏆 **Top 6 — Drishti AI Hackathon** (Sponsored by DEX - IT Global)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv8s-Computer_Vision-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Next.js_15-Frontend-black?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/Redis-Pub%2FSub-DC382D?style=flat-square&logo=redis"/>
+  <img src="https://img.shields.io/badge/ByteTrack-Tracking-5BC0EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-Deployed-2496ED?style=flat-square&logo=docker"/>
+</p>
 
 ---
 
@@ -197,12 +370,13 @@ Machine learning workflows focused on environmental analysis and AQI prediction 
 <h2 align="center">◦ LEADERSHIP & EXPERIENCE ◦</h2>
 
 ```txt
-⚡ Technical Member — DJS Helios Solar Vehicle Committee
+⚡ Head of Electronics & Automation — DJS Helios Solar Vehicle Committee
+🔬 Research Head — DJS Informatrix
 🚀 Participated in 25+ case study competitions, hackathons,
    technical project presentations & idea pitching competitions
 📈 Internship Experience in Growth & Strategy
 🧠 Experience Across AI, Analytics & Intelligent Systems
-🔬 Strong Interest in Research-Driven Engineering
+🔭 Strong Interest in Research-Driven Engineering
 ```
 
 ---
@@ -211,6 +385,18 @@ Machine learning workflows focused on environmental analysis and AQI prediction 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sia3136&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">◦ SNAKE EATS MY CONTRIBUTIONS ◦</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sia3136/Sia3136/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sia3136/Sia3136/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sia3136/Sia3136/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -241,6 +427,7 @@ Interested in collaborating on:
 ```txt
 🥈 2nd Runner-Up — Slide the Change Challenge
 🥈 2nd Runner-Up — NIDM Spandan Case Study Competition
+🏆 Top 6 — Drishti AI Hackathon (ViewX · Sponsored by DEX - IT Global)
 🧠 AI • ML • Data Science Enthusiast
 🌍 Passionate About Impact-Driven Intelligent Systems
 🔬 Research + Engineering Focused
