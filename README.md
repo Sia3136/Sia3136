@@ -404,8 +404,15 @@ Next.js Dashboard — Real-Time Alerts + Audit Trail + AI Explainability (Groq A
 <h2 align="center">◦ CONTRIBUTION MAP ◦</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sia3136&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sia3136&theme=tokyo-night&hide_border=true&area=true&color=5BC0EB&line=3A506B&point=E0FBFC"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sia3136&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sia3136&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
 
 ---
 
