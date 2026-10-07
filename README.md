@@ -1,10 +1,8 @@
-# Hello, I'm Siya
+# Hello, It's Siya
 
 ---
 
-## 📌 About Me
-
-I am a software engineer and AI researcher focused on **Machine Learning**, **Deep Learning**, **Data Science**, and **Applied AI**. I specialize in taking research-backed concepts and engineering them into scalable, high-performance systems.
+I am an undergraduate B.Tech student in Artificial Intelligence and Data Science focused on **Machine Learning**, **Deep Learning**, **Data Science**, and **Applied AI**. I specialize in bridging academic research and production-grade software to engineer scalable, high-performance intelligent systems.
 
 - 🧠 **Focus Areas:** Machine Learning, Deep Learning, Edge Computer Vision, NLP & Applied AI Systems
 - ⚡ **Head of Electronics & Automation** — DJS Helios Solar Vehicle Committee
