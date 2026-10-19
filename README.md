@@ -7,7 +7,6 @@ I am an undergraduate B.Tech student in Artificial Intelligence and Data Science
 - 🧠 **Focus Areas:** Machine Learning, Deep Learning, Edge Computer Vision, NLP & Applied AI Systems
 - ⚡ **Head of Electronics & Automation** — DJS Helios Solar Vehicle Committee
 - 🔬 **Research Head** — DJS Informatrix
-- 🏆 **25+ Competitions & Hackathons** — Top 6 Finalist at *Drishti AI Hackathon*, podium finishes in case study & technical challenges
 - 💻 **Engineering Mindset:** Committed to clean architecture, end-to-end execution, and building solutions with measurable real-world impact
 
 📫 **Get in touch:**  
