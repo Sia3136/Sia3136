@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sia3136&label=Views&color=555555&style=flat-square" />
 </p>
 
-I turn ideas into working, scalable products — across **ML, Deep Learning, LLMs, full-stack systems, and UI/UX**.  
+I turn ideas into working, scalable products — across **ML, DL, LLMs and full-stack systems**.  
 From implementing transformer architectures in raw PyTorch and fine-tuning domain models to shipping real-time backends (`FastAPI`, `Redis`, `WebSockets`) and production web apps (`Next.js`, `PostgreSQL`), I build across the full lifecycle from problem framing to deployment.
 
 <sub><i>Open to AI/ML, Deep Learning & Systems/Software Engineering internships, as well as freelance or contract work.</i></sub>
