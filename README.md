@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/siya-rozani-9889592a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=siarozani3136@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://gradientsandgroundtruth.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0005-5502-1997" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
   <a href="https://dribbble.com/siarozani3136" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" /></a>
   <a href="https://www.behance.net/siyarozani" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Sia3136&label=Views&color=555555&style=flat-square" />
